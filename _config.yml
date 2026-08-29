@@ -13,7 +13,7 @@ name                     : "h4fan"
 description              : "blog about security, tech"
 
 url: https://h4fan.github.io # root address of the site
-baseurl: "/tech" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "/Tech" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 
 permalink: /:year/:month/:day/:title.html
 
