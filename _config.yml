@@ -21,9 +21,8 @@ navbar-links:
   Index: "/"
   Tags: "tags"
   Archive: "archive"
-  HackerDefense: "HackerDefense"
-  FabDefense: "FabDefense"
-  Tools: "https://m.tcp.im"
+  Security: "https://h4fan.github.io"
+
  
 social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
